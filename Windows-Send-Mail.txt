@@ -1,6 +1,6 @@
 REM The classic rick roll
 DEFAULT_DELAY 700
-REM Open video:
+REM Open Mail Client, only works with Windows Mail.
 GUI r
 STRING mailto:someone
 SHIFT 2
