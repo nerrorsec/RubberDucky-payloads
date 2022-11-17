@@ -1,0 +1,6 @@
+REM The classic rick roll
+DEFAULT_DELAY 700
+REM Open video:
+CTRL ESC
+STRING cmd
+ENTER
