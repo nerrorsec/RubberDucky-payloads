@@ -1,0 +1,15 @@
+DEFAULT_DELAY 700
+REM Chrome
+GUI r
+chrome https://mail.google.com/mail/u/0/#inbox?compose=new
+ENTER
+DELAY 1000
+STRING duckyman
+SHIFT 2
+STRING mailinator.com
+TAB
+TAB
+STRING Hello
+TAB
+STRING Hello from the other Side
+CTRL ENTER
