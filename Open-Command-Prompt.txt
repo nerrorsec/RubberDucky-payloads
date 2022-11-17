@@ -1,6 +1,6 @@
-REM The classic rick roll
+REM Command Prompt
 DEFAULT_DELAY 700
-REM Open video:
+REM Open command prompt:
 CTRL ESC
 STRING cmd
 ENTER
