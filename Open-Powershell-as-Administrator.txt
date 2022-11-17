@@ -1,0 +1,8 @@
+REM Powershell as Administrator
+DEFAULT_DELAY 700
+REM Open video:
+GUI r
+STRING powershell Start-Process powershell -Verb runas
+ENTER
+LEFTARROW
+ENTER
