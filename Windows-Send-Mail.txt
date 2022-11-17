@@ -1,0 +1,15 @@
+REM The classic rick roll
+DEFAULT_DELAY 700
+REM Open video:
+GUI r
+STRING mailto:someone
+SHIFT 2
+STRING gmail.com
+ENTER
+TAB
+TAB
+TAB
+STRING Hello
+TAB
+STRING hello 123
+CTRL ENTER
