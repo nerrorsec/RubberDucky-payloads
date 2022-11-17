@@ -1,7 +1,7 @@
 DEFAULT_DELAY 700
 REM Chrome
 GUI r
-chrome https://mail.google.com/mail/u/0/#inbox?compose=new
+STRING chrome https://mail.google.com/mail/u/0/#inbox?compose=new
 ENTER
 DELAY 1000
 STRING duckyman
