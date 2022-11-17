@@ -7,4 +7,3 @@ ENTER
 REM Fullscreen video:
 DELAY 1000
 STRING f
-SPACE
