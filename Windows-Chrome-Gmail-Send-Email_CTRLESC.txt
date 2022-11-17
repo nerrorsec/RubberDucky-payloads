@@ -3,7 +3,11 @@ REM Chrome
 CTRL ESC
 STRING chrome
 ENTER
-STRING chrome https://mail.google.com/mail/u/0/#inbox?compose=new
+STRING https
+SHIFT ;
+STRING //mail.google.com/mail/u/0/
+SHIFT 3
+STRING inbox?compose=new
 ENTER
 DELAY 1000
 STRING duckyman
