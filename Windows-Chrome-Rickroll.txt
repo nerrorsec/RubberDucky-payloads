@@ -1,6 +1,6 @@
 REM The classic rick roll
 DEFAULT_DELAY 700
-REM Open video:
+REM rickroll
 GUI r
 STRING chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ENTER
