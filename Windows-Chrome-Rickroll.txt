@@ -1,0 +1,10 @@
+REM The classic rick roll
+DEFAULT_DELAY 700
+REM Open video:
+GUI r
+STRING chrome https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+REM Fullscreen video:
+DELAY 1000
+STRING f
+SPACE
